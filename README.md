@@ -32,14 +32,14 @@ A simple, fast, and flexible subdomain scanner for security researchers and bug 
 ## Installation
 
 1. **Clone the repository:**
-   ```sh
+```
 git clone https://github.com/sidharth-v-s/virtual-host-scanner.git
 cd virtual-host-scanner/Virual\ Host\ Scanner
-   ```
-2. **Install dependencies:**
-   ```sh
+```
+3. **Install dependencies:**
+```sh
 pip install requests
-   ```
+```
 
 ---
 
