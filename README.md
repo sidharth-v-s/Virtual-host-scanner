@@ -33,7 +33,7 @@ A simple, fast, and flexible subdomain scanner for security researchers and bug 
 
 1. **Clone the repository:**
    ```sh
-git clone https://github.com/yourusername/virtual-host-scanner.git
+git clone https://github.com/sidharth-v-s/virtual-host-scanner.git
 cd virtual-host-scanner/Virual\ Host\ Scanner
    ```
 2. **Install dependencies:**
